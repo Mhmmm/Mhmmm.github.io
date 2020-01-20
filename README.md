@@ -3,9 +3,9 @@
 
 I will be uploading here my Game Jam efforts, I guess - at least for now.
 
-# GM48
+# gm(48)
 ## 33: "Collect!"
-- *upcoming*
+- *Swimmer* - executable - source files (links coming up shortly)
 
 ### Contact
 [Steam](https://steamcommunity.com/id/Renusek)
